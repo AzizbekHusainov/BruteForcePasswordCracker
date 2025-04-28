@@ -100,7 +100,6 @@ public class Worker extends Thread {
         // take any length and have it be recorded in an ArrayList. Just citing in case.
     }
 
-    // Ai
     /**
      * Deletes the specified directory and its contents.
      * 
@@ -122,5 +121,4 @@ public class Worker extends Thread {
             System.err.print("");
         }
     }
-    // Ai
 }
